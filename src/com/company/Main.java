@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         int number;
-        for(int i=1;i<=80;i++) {
+        for(int i=1;i<=40;i++) {
             System.out.println("Hello World! " + i);
             for(int c=1;c<=2;c++) {
                 System.out.println("  Jen was here! " + c);
