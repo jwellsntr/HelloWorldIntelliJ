@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        for(int i=0;i<=30;i++) {
-            System.out.println("Hello World!");
+        for(int i=0;i<=40;i++) {
+            System.out.println("Hello World - Jen was here!");
         }
     }
 }
