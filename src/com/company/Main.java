@@ -1,7 +1,7 @@
 // Author: John Wells
 // Date: 8-18-2019
 // Title: Hello Wolrd
-// IDE: Intellij
+// IDE: Intellij but works in VSCode
 //
 // Intellij was used to create the standard, world-famour Hello World Program
 
